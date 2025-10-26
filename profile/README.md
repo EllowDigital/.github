@@ -1,87 +1,85 @@
 <div align="center">
   
-  <img src="https://github.com/user-attachments/assets/fd520a2c-78b6-437f-814b-5c7bc633238c" alt="EllowDigital - Digital Excellence" width="400"/>
-
+  <img src="https://github.com/user-attachments/assets/fd520a2c-78b6-437f-814b-5c7bc633238c" alt="EllowDigital Logo" width="150"/>
+  
   <h1>EllowDigital</h1>
   
   <p>
-    <strong>Digital Excellence, Indian Brilliance 🇮🇳</strong>
+    <b>Digital Excellence, Indian Brilliance 🇮🇳</b>
     <br />
     <em>Crafting Bold Digital Solutions for Visionaries.</em>
   </p>
-
+  
   <p>
     <a href="https://ellowdigital.netlify.app/">
-      <img src="https://img.shields.io/badge/Website-EllowDigital-3b5998?style=for-the-badge&logo=rss" alt="Official Website"/>
+      <img src="https://img.shields.io/badge/Official_Website-5856D6?style=for-the-badge&logo=rss&logoColor=white" alt="Official Website"/>
     </a>
     <a href="mailto:ellowdigitalindia@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail" alt="Email Us"/>
+      <img src="https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us"/>
     </a>
     <a href="https://github.com/devsarwan">
-      <img src="https://img.shields.io/badge/Founder-@devsarwan-181717?style=for-the-badge&logo=github" alt="Founder's GitHub"/>
+      <img src="https://img.shields.io/badge/Founder-@devsarwan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Founder's GitHub"/>
     </a>
   </p>
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/classic.gif" width="100%" />
 
-<div align="center">
-  <blockquote>
-    <h2>
-      "Every line of code and every pixel should serve a purpose
-      <br />
-      — to create beautiful experiences that solve real problems."
-    </h2>
-  </blockquote>
-</div>
+<table>
+  <tr valign="top">
+    <td width="60%">
+      <h2>🚀 Our Philosophy</h2>
+      <blockquote>
+        "Every line of code and every pixel should serve a purpose — to create beautiful experiences that solve real problems."
+      </blockquote>
+      <br>
+      <h3>About Our Agency</h3>
+      <p>
+        At <strong>EllowDigital</strong>, we are a solo-powered micro-agency with a passion for innovation. We believe technology should empower people. By blending modern tech with human-centered design, we bring your boldest ideas to life.
+      </p>
+      <p>
+        Our solutions are crafted to be:
+      </p>
+      <ul>
+        <li>✨ <strong>Creative:</strong> Intuitive, clean, and engaging UI/UX.</li>
+        <li>💻 <strong>Efficient:</strong> Scalable, robust, and maintainable code.</li>
+        <li>📈 <strong>Strategic:</strong> Personalized strategies that drive results.</li>
+        <li>🛡️ <strong>Future-Proof:</strong> Built with modern, adaptable technologies.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <h2>🛠️ Core Services</h2>
+      <ul>
+        <li>🌐 <strong>Web Development</strong><br>
+          <small>Lightning-fast, mobile-first, SEO-optimized sites.</small>
+        </li>
+        <li>📱 <strong>Mobile App Development</strong><br>
+          <small>Beautiful and intuitive apps for Android & iOS.</small>
+        </li>
+        <li>🎨 <strong>UI/UX Design</strong><br>
+          <small>User-centered interfaces that drive engagement.</small>
+        </li>
+        <li>⚡ <strong>SEO & Performance</strong><br>
+          <small>Rank-ready strategies and conversion optimization.</small>
+        </li>
+        <li>💻 <strong>Custom Software</strong><br>
+          <small>Tailored tools and automation for your business.</small>
+        </li>
+        <li>🔧 <strong>Maintenance & Support</strong><br>
+          <small>Ongoing updates, security, and expert consultation.</small>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br>
+## 💻 Our Technology Universe
 
----
-
-## 🚀 About Us
-
-At **EllowDigital**, we are a solo-powered micro-agency dedicated to delivering high-performance websites, mobile apps, and software solutions. We believe technology should empower people, blending innovative tech with human-centered design to bring your boldest ideas to life.
-
-Our solutions are crafted to be:
-* **✨ Creative:** Intuitive UI/UX design.
-* **💻 Efficient:** Clean, scalable, and robust code.
-* **📈 Strategic:** Personalized strategies that resonate with your audience.
-* **🛡️ Future-Proof:** Built to last and adapt.
-
-### Our Impact By the Numbers
-
-<p>
-  <img src="https://img.shields.io/badge/Projects_Completed-4%2B-5856d6?style=for-the-badge" alt="4+ Projects Completed"/>
-  <img src="https://img.shields.io/badge/Client_Satisfaction-97%25-34c759?style=for-the-badge" alt="97% Client Satisfaction"/>
-  <img src="https://img.shields.io/badge/Technologies_Mastered-31%2B-ff9500?style=for-the-badge" alt="31+ Technologies Mastered"/>
-  <img src="https://img.shields.io/badge/Avg._Delivery-13_Days-007aff?style=for-the-badge" alt="13 Days Average Delivery"/>
-</p>
-
----
-
-## 🛠️ Our Core Services
-
-| | |
-| :--- | :--- |
-| 🌐 | **Web Development** <br> Lightning-fast, mobile-first, SEO-optimized websites. |
-| 📱 | **Mobile App Development** <br> Beautiful and intuitive apps for Android & iOS. |
-| 🎨 | **UI/UX Design** <br> Clean, user-centered, and accessible interfaces. |
-| ⚡ | **SEO & Performance** <br> Rank-ready strategies and speed optimizations. |
-| 💻 | **Custom Software** <br> Tailored tools and automation for business efficiency. |
-| 🔧 | **Maintenance & Support** <br> Ongoing updates, bug fixes, and expert consultation. |
-
----
-
-## 💻 Our Technology Stack
-
-We leverage the latest technologies to create fast, secure, and scalable digital solutions. Click to expand each category.
+We leverage a modern stack to build fast, secure, and scalable solutions. Click to expand each category.
 
 <details>
-  <summary>
-    <strong>Frontend</strong>
-  </summary>
+  <summary><strong>🎨 Frontend</strong></summary>
   <br>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -93,9 +91,7 @@ We leverage the latest technologies to create fast, secure, and scalable digital
 </details>
 
 <details>
-  <summary>
-    <strong>Mobile</strong>
-  </summary>
+  <summary><strong>📱 Mobile</strong></summary>
   <br>
   <p>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -104,9 +100,7 @@ We leverage the latest technologies to create fast, secure, and scalable digital
 </details>
 
 <details>
-  <summary>
-    <strong>Backend</strong>
-  </summary>
+  <summary><strong>⚙️ Backend</strong></summary>
   <br>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -116,9 +110,7 @@ We leverage the latest technologies to create fast, secure, and scalable digital
 </details>
 
 <details>
-  <summary>
-    <strong>Databases</strong>
-  </summary>
+  <summary><strong>🗃️ Databases</strong></summary>
   <br>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -127,11 +119,31 @@ We leverage the latest technologies to create fast, secure, and scalable digital
   </p>
 </details>
 
+<br>
+
 ---
 
-##  portfolio Featured Public Projects
+## 📈 Our Impact & Activity
 
-Here are some of the open-source projects and client highlights developed by EllowDigital.
+### Metrics That Matter
+<p>
+  <img src="https://img.shields.io/badge/Projects_Completed-4%2B-5856d6?style=for-the-badge" alt="4+ Projects Completed"/>
+  <img src="https://img.shields.io/badge/Client_Satisfaction-97%25-34c759?style=for-the-badge" alt="97% Client Satisfaction"/>
+  <img src="https://img.shields.io/badge/Avg._Delivery-13_Days-007aff?style=for-the-badge" alt="13 Days Average Delivery"/>
+  <img src="https://img.shields.io/badge/Technologies_Mastered-31%2B-ff9500?style=for-the-badge" alt="31+ Technologies Mastered"/>
+</p>
+
+### Founder's Activity (@devsarwan)
+<p>As a solo-powered agency, our founder's activity reflects our organization's pulse.</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsarwan&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="Sarwan's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarwan&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
+</div>
+
+---
+
+## portfolio Featured Public Projects
+<p>Here are some of the open-source projects and client highlights developed by EllowDigital.</p>
 
 | Project | Description | Technologies Used |
 | :--- | :--- | :--- |
@@ -140,13 +152,17 @@ Here are some of the open-source projects and client highlights developed by Ell
 | **Ghatak Sports** | Responsive web app for a sports academy. | `React (Vite)`, `TypeScript` |
 | **RGSK Technologies** | Modern business website with a focus on trust and performance. | `React (Vite)`, `TypeScript` |
 
+<br>
+
 <div align="center">
   <a href="https://github.com/EllowDigital?tab=repositories">
-    <strong>Explore All Our Repositories...</strong>
+    <img src="https://img.shields.io/badge/Explore_All_Our_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
   </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/classic.gif" width="100%" />
+
+<br>
 
 <div align="center">
   <h2>
@@ -159,22 +175,15 @@ Here are some of the open-source projects and client highlights developed by Ell
   
   <p>
     <a href="mailto:ellowdigitalindia@gmail.com">
-      <img src="https://img.shields.io/badge/Start_Your_Project-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Start Your Project"/>
-    </a>
-    <a href="tel:+918960446756">
-      <img src="https://img.shields.io/badge/Call_Us-+91_89604_46756-25D366?style=for-the-badge&logo=whatsapp" alt="Call Us"/>
+      <img src="https://img.shields.io/badge/Start_Your_Project-34C759?style=for-the-badge&logo=gmail&logoColor=white" alt="Start Your Project"/>
     </a>
   </p>
-
-  <br>
-  <hr>
+  
   <br>
   
   <p>
     <small>
-      © 2025 EllowDigital. All Rights Reserved.
-      <br>
-      Making Digital Simple.
+      © 2025 EllowDigital. All Rights Reserved. | Making Digital Simple.
     </small>
   </p>
 </div>
