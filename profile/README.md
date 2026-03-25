@@ -183,7 +183,7 @@ We leverage a modern stack to build fast, secure, and scalable solutions. Click 
   
   <p>
     <small>
-      © 2025 EllowDigital. All Rights Reserved. | Making Digital Simple.
+      © 2026 EllowDigital. All Rights Reserved. | Making Digital Simple.
     </small>
   </p>
 </div>
