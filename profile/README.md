@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/classic.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 <table>
   <tr valign="top">
@@ -160,7 +160,7 @@ We leverage a modern stack to build fast, secure, and scalable solutions. Click 
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/classic.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <br>
 
