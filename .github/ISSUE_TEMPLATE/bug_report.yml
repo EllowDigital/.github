@@ -1,0 +1,56 @@
+name: Bug report
+description: Report a reproducible defect in an EllowDigital project.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please report one issue per submission. Do not include passwords, API keys, private customer information, patient data, payment details or confidential client material.
+  - type: input
+    id: summary
+    attributes:
+      label: What happened?
+      description: Give a clear, specific summary.
+      placeholder: Describe the unexpected behaviour.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: List the minimum steps needed to reproduce the problem.
+      placeholder: |
+        1. Open ...
+        2. Select ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behaviour
+      description: What happened instead? Include any safe, redacted error messages.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Add relevant app version, browser, operating system, device or runtime.
+      placeholder: App version, browser, OS, device, etc.
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add a screenshot or other context only if it contains no sensitive information.
+    validations:
+      required: false
