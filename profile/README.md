@@ -142,8 +142,8 @@ We leverage a modern stack to build fast, secure, and scalable solutions. Click 
 
 ---
 
-## portfolio Featured Public Projects
-<p>Here are some of the open-source projects and client highlights developed by EllowDigital.</p>
+## Featured Projects & Client Work
+<p>Explore selected EllowDigital projects and client work. Repository access, source availability, and code or asset reuse permissions vary by project and any applicable agreement; check each repository's license before reusing materials.</p>
 
 | Project | Description | Technologies Used |
 | :--- | :--- | :--- |
