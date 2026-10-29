@@ -1,0 +1,52 @@
+name: Feature request
+description: Suggest a practical improvement or new capability.
+title: "[Feature]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us understand the problem to solve. Please do not include confidential client information or personal data.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What user need, limitation or workflow would this address?
+      placeholder: Describe the problem rather than only the proposed solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Explain the change you would find useful.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Mention any workaround or alternative you have considered.
+    validations:
+      required: false
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Primary area of impact
+      options:
+        - Usability
+        - Accessibility
+        - Reliability
+        - Performance
+        - Security or privacy
+        - Documentation
+        - Integration
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add non-sensitive examples, mock-ups or context that help explain the request.
+    validations:
+      required: false
