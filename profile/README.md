@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fd520a2c-78b6-437f-814b-5c7bc633238c" alt="EllowDigital logo" width="112" />
-  <h1>EllowDigital</h1>
+  <img width="376" height="112" alt="ascii-art-1793949194890" src="https://github.com/user-attachments/assets/2a7d314f-b076-4d68-a435-faa57714aa90" />
   <p><strong>Thoughtful digital engineering for real-world work.</strong></p>
   <p>We design, build and maintain digital experiences that help businesses and communities work better.</p>
   <p>
